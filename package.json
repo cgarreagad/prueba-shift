@@ -1,0 +1,22 @@
+{
+  "name": "prueba-shift",
+  "version": "1.0.0",
+  "description": "prueba-openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgarreagad/prueba-shift.git"
+  },
+  "author": "CAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgarreagad/prueba-shift/issues"
+  },
+  "homepage": "https://github.com/cgarreagad/prueba-shift#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
